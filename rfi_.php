@@ -1,3 +1,1 @@
-<?php
-exec("hostname", $o);
-print_r($o);
+<?PHP exec("hostname", $o); echo $o; ?>
